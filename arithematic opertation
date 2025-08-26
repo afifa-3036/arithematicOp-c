@@ -1,0 +1,14 @@
+#include <stdio.h>
+viod main()
+{
+int a=5;
+int b=4;
+int c=a+b;
+int d=a*b;
+int e=a-b;
+int f=a/b;
+printf("value of c:%d\n",c);
+printf("value of d:%d\n",d);
+printf("value of e:%d\n",e);
+printf("value of f:%d\n",f);
+}
