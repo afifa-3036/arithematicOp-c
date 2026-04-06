@@ -1,2 +1,2 @@
-# arithematicOp-c
-C programming language 
+#Basic python programs
+
