@@ -129,7 +129,6 @@ class DocsevaGUI:
 
 # --- Run App ---
 if __name__ == "__main__":
-    print("Afifa Peerzade\n PRN:22458010270\n DIV:D \n Rollno:39")
     root = tk.Tk()
     app = DocsevaGUI(root)
     root.mainloop()
