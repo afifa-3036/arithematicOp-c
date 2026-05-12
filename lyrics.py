@@ -20,7 +20,7 @@ for line in lyrics1:
         #print()
         time.sleep(4.4)
 
-        lyrics3=["too mere bahon main duniya bhula de",]
+        lyrics3=["too mere bahon main duniya bhula de....",]
 for line in lyrics3:
         print(line)
         #print()
